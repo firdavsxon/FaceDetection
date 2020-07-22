@@ -1,2 +1,4 @@
 # FaceDetection
-Face detecting program in pictures
+Script to detecting faces in images
+
+![Alt Text](link)
